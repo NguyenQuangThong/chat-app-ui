@@ -1,0 +1,8 @@
+.add-friend {
+  text-align: center;
+}
+.add-friend-list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
